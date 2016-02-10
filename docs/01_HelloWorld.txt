@@ -1,0 +1,5 @@
+Things to Remember:
+==================
+- import "fmt"
+- fmt.Printf supports  UTF-8
+- Every executable should have a "package" declaration
